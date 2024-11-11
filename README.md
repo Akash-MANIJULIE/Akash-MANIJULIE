@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning java with fullstack
 - 💞️ I’m looking to collaborate on app devolepment projects
 - 📫 How to reach me akashramachandran2003@gmail.com
-- 😄 Pronouns: 
-- ⚡ Fun fact: ...
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: 
 
 <!---
 Akash-MANIJULIE/Akash-MANIJULIE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
